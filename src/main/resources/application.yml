@@ -1,0 +1,13 @@
+logging:
+    level:
+        ROOT: DEBUG
+    file: c:/temp/application.log
+server:
+    port: 8082
+    enabled: true
+    key-store: ssl_server.jks
+    key-password: always
+
+
+
+
